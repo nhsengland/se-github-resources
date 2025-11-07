@@ -1,0 +1,6 @@
+-- this file is ignored by the gitignore as typically contains file paths and server names that need to be hidden
+-- for the purposes of this training exercise the "secrets" are made up
+default:
+  KEY_VAULT_ADDR: https://thisismadeup.vault.azure.net/
+  secret_key: this-is-made-up
+  lake_url: https://thisismadeup.windows.net
